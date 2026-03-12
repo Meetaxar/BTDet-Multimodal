@@ -50,7 +50,7 @@ BraTS2020 MRI data combined with clinical survival information.
 
 ## Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/BTDet-Multimodal.git
+git clone https://github.com/Meetaxar/BTDet-Multimodal.git
 cd BTDet-Multimodal
 pip install ultralytics kagglehub nibabel scikit-learn grad-cam torch
 ```
